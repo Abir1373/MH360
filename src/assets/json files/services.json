@@ -1,0 +1,44 @@
+[
+  {
+    "key": "marketing",
+    "category": "Marketing",
+    "title": "Digital Marketing Consultancy",
+    "description": "Strategic digital marketing solutions designed to grow your brand online through SEO, social media, PPC, and performance-driven campaigns. We focus on increasing visibility, engagement, and conversions to help your business achieve sustainable digital growth."
+  },
+  {
+    "key": "branding",
+    "category": "CREATIVE",
+    "title": "Branding & Design",
+    "description": "Creative branding and design services that build a strong and memorable visual identity for your business. From logo creation to complete brand systems, we help your brand stand out with consistency and impact."
+  },
+  {
+    "key": "events",
+    "category": "EVENTS",
+    "title": "Event Management",
+    "description": "Professional event planning and execution for corporate events, conferences, and brand activations. We ensure seamless coordination, creative concepts, and memorable experiences for your audience."
+  },
+  {
+    "key": "hr-consultancy",
+    "category": "HR",
+    "title": "HR Consultancy",
+    "description": "Complete HR solutions to improve workforce management and employee performance. We help businesses build efficient HR systems, policies, and structures that support long-term success."
+  },
+  {
+    "key": "recruitment",
+    "category": "HR",
+    "title": "Recruitment & Talent Acquisition",
+    "description": "We help you find, attract, and hire the right talent to grow your organization effectively. Our process ensures quality candidates who match your company culture and goals."
+  },
+  {
+    "key": "training",
+    "category": "HR",
+    "title": "Training & Development",
+    "description": "Employee training programs designed to enhance skills, boost productivity, and build a more capable workforce ready to meet modern business challenges."
+  },
+  {
+    "key": "payroll",
+    "category": "HR",
+    "title": "Payroll & HR Compliance",
+    "description": "Accurate payroll processing and full HR compliance support for your business. We ensure timely salary management, legal compliance, and smooth HR operations."
+  }
+]

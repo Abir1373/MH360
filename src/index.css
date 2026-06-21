@@ -1,0 +1,55 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+/* Force DaisyUI to use only light theme */
+@plugin "daisyui" {
+  themes: light --default;
+}
+
+@theme {
+  /* Fonts */
+  --font-ubuntu: "Ubuntu", sans-serif;
+  --font-cinzel: "Cinzel", serif;
+  --font-cormorant: "Cormorant Garamond", serif;
+  --font-playfair: "Playfair Display", serif;
+
+  --font-inter: "Inter", sans-serif;
+  --font-manrope: "Manrope", sans-serif;
+
+  --font-unifraktur: "UnifrakturCook", cursive;
+}
+
+/* Global Light Mode Lock */
+:root {
+  color-scheme: light;
+}
+
+html,
+body,
+#root {
+  background-color: white !important;
+  color: black !important;
+  min-height: 100%;
+}
+
+/* Override DaisyUI dark theme */
+[data-theme="dark"] {
+  background-color: white !important;
+  color: black !important;
+}
+
+body {
+  font-family: var(--font-cormorant);
+}
+
+input,
+textarea,
+select {
+  background-color: white !important;
+  color: black !important;
+}
+
+input::placeholder,
+textarea::placeholder {
+  color: #9ca3af !important;
+}

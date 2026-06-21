@@ -1,0 +1,55 @@
+[
+  {
+    "id": 1,
+    "category": "Marketing",
+    "img": "gallery_images/marketing/mrk1.jpg"
+  },
+  {
+    "id": 2,
+    "category": "Marketing",
+    "img": "gallery_images/marketing/mrk2.jpg"
+  },
+  {
+    "id": 3,
+    "category": "Marketing",
+    "img": "gallery_images/marketing/mrk3.jpg"
+  },
+
+  {
+    "id": 4,
+    "category": "HR",
+    "img": "gallery_images/hr/hr1.jpg"
+  },
+  {
+    "id": 5,
+    "category": "HR",
+    "img": "gallery_images/hr/hr2.jpg"
+  },
+
+  {
+    "id": 6,
+    "category": "Events",
+    "img": "gallery_images/events/event1.jpg"
+  },
+  {
+    "id": 7,
+    "category": "Events",
+    "img": "gallery_images/events/event2.jpg"
+  },
+
+  {
+    "id": 8,
+    "category": "Training",
+    "img": "gallery_images/training/tr1.jpg"
+  },
+  {
+    "id": 9,
+    "category": "Training",
+    "img": "gallery_images/training/tr2.jpg"
+  },
+  {
+    "id": 10,
+    "category": "Training",
+    "img": "gallery_images/training/tr3.jpg"
+  }
+]
